@@ -99,29 +99,40 @@ Components of README:
 Common Challenges for New GitHub Users:
 
 Steep learning curve: GitHub's interface and features can be overwhelming for first-time users.
+
 Understanding branching and merging: Managing multiple branches of code and merging changes effectively can be challenging.
+
 Code conflicts: Collaborators can unknowingly make changes to the same sections of code, leading to conflicts.
+
 Lack of understanding of user roles and permissions: Incorrectly assigning roles and permissions can compromise project security and collaboration.
+
 Version control hygiene: Maintaining a clean and organized repository with commit messages and branches can become difficult over time.
+
             STRATEGIES:
 1. Familiarize Yourself with the Basics:
     Start with GitHub tutorials and documentation to grasp the fundamentals of version control and collaboration.
    Understand the concepts of branches, merging, and pull requests.
-2. Establish a Clear Branching Strategy:
+   
+3. Establish a Clear Branching Strategy:
     Define a branching workflow that suits your team's needs. Use branches for different features, bug fixes, or releases.
     Create and merge branches regularly to avoid large and difficult merges.
-3. Resolve Conflicts Effectively:
+   
+5. Resolve Conflicts Effectively:
      Use Git's built-in tools for conflict detection and resolution.
    Communicate with collaborators to coordinate changes and resolve conflicts promptly.
-4. Manage User Roles and Permissions:
+   
+7. Manage User Roles and Permissions:
      Assign roles and permissions to users based on their responsibilities.
     Use access control lists (ACLs) to restrict access to sensitive code or repositories.
-5. Maintain Version Control Hygiene:
+   
+9. Maintain Version Control Hygiene:
       Write clear and concise commit messages that describe the changes made.
      Regularly clean up old or unnecessary branches and commits.
-6. Use the GitHub Issue Tracker:
+   
+11. Use the GitHub Issue Tracker:
      Create issues for bugs, feature requests, or discussions.
      Assign issues to team members and track their progress.
-7. Encourage Active Code Reviews:
+    
+13. Encourage Active Code Reviews:
        Request code reviews from peers before merging changes.
        Provide constructive feedback and suggest improvements to ensure code quality.
